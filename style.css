@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,300&display=swap");
+
+html,
+body {
+  background-color: rgb(20, 20, 20);
+  height: 200%;
+  width: 200%;
+  overflow: hidden;
+}
+
+h1,
+h3 {
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+#outputPass {
+  position: relative;
+  right: -595px;
+}
+
+.title {
+  position: relative;
+  right: -350px;
+}
+
+input {
+  background-color: rgb(15, 15, 15);
+  border-radius: 9px;
+  border-color: rgb(0, 0, 0);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.passInput {
+  position: relative;
+  right: -530px;
+}
+
+button {
+  background-color: rgb(15, 15, 15);
+  border-radius: 9px;
+  border-color: rgb(0, 0, 0);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.gb {
+  position: relative;
+  right: -360px;
+  bottom: -35px;
+}
